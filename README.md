@@ -11,3 +11,8 @@ pkg install python2
 pkg install git
 
 git clone https://github.com/James234azaza/SMS
+
+ls
+
+cd JamesSMS
+
