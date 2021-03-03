@@ -16,3 +16,7 @@ ls
 
 cd JamesSMS
 
+ls
+
+python3 jamesSMS.py
+
