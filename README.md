@@ -14,7 +14,7 @@ git clone https://github.com/James234azaza/SMS
 
 ls
 
-cd JamesSMS
+cd SMS
 
 ls
 
